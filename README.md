@@ -10,5 +10,6 @@ fackbook cracker tool for hack facebook
  
 # who make it 
  ofcourse me :D
- but idea and codes from * [__Hesham Robert__] (www.facebook.com/hesham.Robert)
+ but idea and codes from * [__Hesham Robert__] (www.facebook.com/hesham.Robert).
+ 
  
